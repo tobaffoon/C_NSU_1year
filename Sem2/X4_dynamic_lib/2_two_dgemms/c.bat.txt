@@ -1,0 +1,1 @@
+cl main.c matrixsqr.c libopenblas.lib /Fe"checked_solution.exe"

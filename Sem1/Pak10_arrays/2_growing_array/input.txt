@@ -1,0 +1,8 @@
+7
+123 qwerty
+3 string
+3213 good
+123 a
+3112 ab
+311 hello
+312312 world

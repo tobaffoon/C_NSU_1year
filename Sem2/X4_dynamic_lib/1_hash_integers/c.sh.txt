@@ -1,0 +1,1 @@
+gcc ./integerset.c ./hash_table.c -I ./ -shared -fPIC -o integerset.so

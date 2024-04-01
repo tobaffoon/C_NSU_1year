@@ -1,0 +1,3 @@
+/mnt/c/Users/Work/C_NSU_1year/cmake-build-wsl/CMakeFiles/main.dir
+/mnt/c/Users/Work/C_NSU_1year/cmake-build-wsl/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Work/C_NSU_1year/cmake-build-wsl/CMakeFiles/rebuild_cache.dir

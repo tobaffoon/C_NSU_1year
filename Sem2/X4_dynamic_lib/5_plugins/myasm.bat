@@ -1,0 +1,1 @@
+cl /O2 main.c line_reader.c *.lib /MD /Femyasm

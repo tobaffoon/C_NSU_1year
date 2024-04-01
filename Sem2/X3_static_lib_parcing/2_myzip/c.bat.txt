@@ -1,0 +1,3 @@
+cl /D USE_CRYPT /c ./zlib/*.c ./zlib/minizip/unzip.c ./zlib/minizip/ioapi.c /I ./zlib/
+lib *.obj /out:unzip.lib
+cl /O2 test.c unzip.lib /D USE_CRYPT /I ./zlib/minizip/ /I ./zlib/ /Fe"checked_solution.exe" 
